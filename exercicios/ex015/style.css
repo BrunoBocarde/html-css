@@ -1,0 +1,17 @@
+body{
+    background-color: dodgerblue ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-synthesis: initial;
+}
+h1{
+    background-color: goldenrod;
+    color: olive;
+    
+}
+h2{
+    color: chocolate;
+}
+
+p{
+    color: bisque;
+}
